@@ -23,7 +23,7 @@ class StudyDecorator extends StudyBehavior {
 
 class ConcentratedStudy extends StudyDecorator {
     study() {
-        return super.study() + " ตั้งใจเรียน";
+        return super.study() + " ตั้งใจเรียนค้าบอ้วน";
     }
 }
 
